@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama: Steafen Kristian Soegiono
+2. Email: steafenk@gmail.com
+3. Sistem Operasi yang digunakan: Windows
+4. Akun Gitlab/Github: @Steafen97
+5. Akun Telegram: @steafenk
